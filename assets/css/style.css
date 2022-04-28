@@ -74,10 +74,10 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
 }
 #header .profile img {
-  margin: 15px auto;
+  margin: 25px auto;
   display: block;
   width: 120px;
-  border: 8px solid #1fa7c9a2;
+  border: 12px solid #1fa7c9a2;
 }
 #header .profile h1 {
   font-size: 25px;
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .profile h1 a, #header .profile h1 a:hover {
-  color: rgba(255, 255, 255, 0.26);
+  color: rgba(255, 255, 255, 0.814);
   text-decoration: none;
 }
 #header .profile .social-links a {
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
-  padding: 30px 0 0 0;
+  padding: 25px 0 0 0;
 }
 .nav-menu * {
   margin: 0;
@@ -294,23 +294,23 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 600;
-  font-size: 25px;
-  color: #bd082fb6;
+  font-size: 30px;
+  color: #08bdb4a3;
 }
 .about .content ul {
   list-style: none;
   padding: 0;
 }
 .about .content ul li {
-  margin-bottom: 35px;
+  margin-bottom: 40px;
   display: flex;
   align-items: center;
 }
 .about .content ul strong {
-  margin-right: 15px;
+  margin-right: 12px;
 }
 .about .content ul i {
-  font-size: 20px;
+  font-size: 25px;
   margin-right: 12px;
   color: #14dd7fe1;
   line-height: 0;

@@ -273,7 +273,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #51176c;
+  color: #51176cde;
 }
 .section-title h2::after {
   content: "";
